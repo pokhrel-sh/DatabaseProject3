@@ -1,0 +1,21 @@
+{
+  "name": "databaseproject3",
+  "version": "1.0.0",
+  "description": "This is a database Project 3",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "redis": "^4.6.13"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
